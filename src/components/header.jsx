@@ -9,17 +9,27 @@ const Header = () => {
           <img src={logo} alt="Logo" />
           <div className="header__nav">
             <a href="Home" className="header__link">
-              Home
+              Головна
             </a>
             <a href="About" className="header__link">
-              About
+              Магазин
             </a>
             <a href="Our Product" className="header__link">
-              Our Product
+              Блог
             </a>
             <a href="Contact" className="header__link">
-              Contact
+              Пасіка
             </a>
+            <a href="Contact" className="header__link">
+              Оплата і доставка
+            </a>
+            <a href="Contact" className="header__link">
+              Контакти
+            </a>
+          </div>
+          <div>
+            <button className="header__search-btn">🔍</button>
+            <button className="header__cart">👜 0 Items Added</button>
           </div>
         </div>
       </div>
