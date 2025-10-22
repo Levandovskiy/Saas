@@ -9,9 +9,6 @@ const Section = () => {
             <a href="Our Product" className="header__link">
               People
             </a>
-            <a href="Contact" className="section__link"></a>
-            <a href="Contact" className="section__link"></a>
-            <a href="Contact" className="section__link"></a>
           </div>
           <div></div>
         </div>
