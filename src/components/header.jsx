@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="header__container">
-        <div ckassName="header__all">
+        <div className="header__all">
           <div className="header__nav">
             <a href="Home" className="header__link"></a>
             <a href="About" className="header__link"></a>
