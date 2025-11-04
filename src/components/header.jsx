@@ -9,7 +9,7 @@ const Header = () => {
             <a href="Home" className="header__link"></a>
             <a href="About" className="header__link"></a>
             <a href="Our Product" className="header__link">
-              Блог
+              Блог Новий
             </a>
             <a href="Contact" className="header__link"></a>
             <a href="Contact" className="header__link"></a>
