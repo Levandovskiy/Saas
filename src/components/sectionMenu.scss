@@ -1,0 +1,33 @@
+.sectionMenu {
+  padding: 60px 20px;
+  text-align: center;
+  background: linear-gradient(135deg, #1e1e2f, #2a2a3d);
+  color: #fff;
+
+  &__title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+
+  &__description {
+    font-size: 1.1rem;
+    margin-bottom: 30px;
+    max-width: 600px;
+    margin-inline: auto;
+  }
+
+  &__button {
+    padding: 12px 24px;
+    font-size: 1rem;
+    background-color: #ffcc00;
+    color: #000;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+
+    &:hover {
+      background-color: #e6b800;
+    }
+  }
+}
