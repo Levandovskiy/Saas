@@ -30,4 +30,23 @@
       background-color: #e6b800;
     }
   }
+
+  @media (max-width: 600px) {
+    .sectionMenu__title {
+      font-size: 1.5rem;
+    }
+
+    .sectionMenu__button {
+      width: 100%;
+    }
+  }
+  @media (max-width: 600px) {
+    .sectionMenu__title {
+      font-size: 1.5rem;
+    }
+
+    .sectionMenu__button {
+      width: 100%;
+    }
+  }
 }
