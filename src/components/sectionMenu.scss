@@ -1,6 +1,6 @@
 .sectionMenu {
   padding: 60px 20px;
-  text-align: center;
+  text-align: left;
   background: linear-gradient(135deg, #1e1e2f, #2a2a3d);
   color: #fff;
 
@@ -13,7 +13,8 @@
     font-size: 1.1rem;
     margin-bottom: 30px;
     max-width: 600px;
-    margin-inline: auto;
+
+    text-align: left;
   }
 
   &__button {
