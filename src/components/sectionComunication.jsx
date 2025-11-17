@@ -18,7 +18,9 @@ const SectionMenu = () => {
       <p className="sectionMenu__description"></p>
       <p className="sectionMenu__description"></p>
 
-
+      <p className="sectionMenu__description"></p>
+      <p className="sectionMenu__description"></p>
+      <p className="sectionMenu__description"></p>
     </section>
   );
 };
