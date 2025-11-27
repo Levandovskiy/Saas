@@ -1,5 +1,5 @@
 import React from "react";
-import "./CalendarActivity.scss";
+import "./calendar.scss";
 
 export default function CalendarActivity() {
   return (
