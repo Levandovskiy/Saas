@@ -6,7 +6,6 @@ import CalendarActivity from "./calendar";
 function App() {
   return (
     <>
-      <Header />
       <SectionMenu />
       <Dashboard />
       <CalendarActivity />
