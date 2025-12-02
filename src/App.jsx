@@ -6,9 +6,11 @@ import CalendarActivity from "./calendar";
 function App() {
   return (
     <>
-      <SectionMenu />
-      <Dashboard />
-      <CalendarActivity />
+      <div className="layout">
+        <SectionMenu />
+        <Dashboard />
+        <CalendarActivity />
+      </div>
     </>
   );
 }
