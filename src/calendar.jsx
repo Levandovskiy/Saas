@@ -5,7 +5,7 @@ export default function CalendarActivity() {
   return (
     <div className="container bg-app">
       <div className="calendar-card">
-        <div className="header">May 2019</div>
+        <div className="header">May 2025</div>
         <div className="calendar-grid">
           {["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"].map((d) => (
             <div key={d} className="day-label">
