@@ -13,10 +13,6 @@ const SectionMenu = () => {
       <p className="sectionMenu__description">Settings</p>
       <p className="sectionMenu__description">Help & Support</p>
       <p className="sectionMenu__description">Logout</p>
-
-      <p className="sectionMenu__description"></p>
-      <p className="sectionMenu__description"></p>
-      <p className="sectionMenu__description"></p>
     </section>
   );
 };
