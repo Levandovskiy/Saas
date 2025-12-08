@@ -1,6 +1,7 @@
 import SectionMenu from "./components/sectionMenu";
 import Dashboard from "./components/dashboard";
 import CalendarActivity from "./calendar";
+import SalesChart from "./components/salesChart";
 
 import "./App.scss";
 
@@ -11,6 +12,7 @@ function App() {
         <SectionMenu />
         <Dashboard />
         <CalendarActivity />
+        <SalesChart />
       </div>
     </>
   );

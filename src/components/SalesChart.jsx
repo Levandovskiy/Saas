@@ -1,13 +1,5 @@
 import React from "react";
-import {
-  LineChart,
-  Line,
-  XAxis,
-  YAxis,
-  Tooltip,
-  ResponsiveContainer,
-  CartesianGrid,
-} from "recharts";
+
 import "./SalesChart.scss";
 
 const data = [
@@ -52,3 +44,5 @@ export const SalesChart = () => {
     </div>
   );
 };
+
+export default SalesChart;
