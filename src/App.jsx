@@ -8,10 +8,12 @@ import "./App.scss";
 function App() {
   return (
     <>
-      <div className="layout">
-        <SectionMenu />
-        <Dashboard />
-        <CalendarActivity />
+      <div>
+        <div className="layout">
+          <SectionMenu />
+          <Dashboard />
+          <CalendarActivity />
+        </div>
         <SalesChart />
       </div>
     </>
