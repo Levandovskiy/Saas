@@ -2,6 +2,17 @@ import React from "react";
 
 import "./SalesChart.scss";
 
+import {
+  ResponsiveContainer,
+  LineChart,
+  Line,
+  XAxis,
+  YAxis,
+  Tooltip,
+  Legend,
+  CartesianGrid,
+} from "recharts";
+
 const data = [
   { date: "1 May", sales: 120 },
   { date: "", sales: 180 },

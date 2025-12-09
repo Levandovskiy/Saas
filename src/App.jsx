@@ -1,7 +1,7 @@
 import SectionMenu from "./components/sectionMenu";
 import Dashboard from "./components/dashboard";
 import CalendarActivity from "./calendar";
-import SalesChart from "./components/salesChart";
+import SalesChart from "./components/SalesChart";
 
 import "./App.scss";
 
