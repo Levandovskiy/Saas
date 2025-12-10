@@ -15,8 +15,10 @@ function App() {
           <Dashboard />
           <CalendarActivity />
         </div>
-        <SalesChart />
-        <NewClients />
+        <div className="layout-two">
+          <SalesChart />
+          <NewClients />
+        </div>
       </div>
     </>
   );

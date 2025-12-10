@@ -3,3 +3,10 @@
   flex-direction: row;
   min-height: 100%;
 }
+
+.layout-two {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-top: 20px;
+}
