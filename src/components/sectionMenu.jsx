@@ -9,7 +9,7 @@ const SectionMenu = () => {
       <p className="sectionMenu__description">My Tasks</p>
       <p className="sectionMenu__description">Klients</p>
       <button className="sectionMenu__button">Sign in</button>
-      <button className="sectionMenu__button">register</button>
+      <button className="sectionMenu__button">log in</button>
 
       <p className="sectionMenu__description">Settings</p>
       <p className="sectionMenu__description">Help & Support</p>
