@@ -3,6 +3,11 @@ import "./NewClients.scss";
 
 const clients = [
   {
+    name: "Nicci ",
+    location: "Chicago, IL",
+    avatar: "/avatars/nicci.jpg",
+  },
+  {
     name: "Nicci Troiani",
     location: "Chicago, IL",
     avatar: "/avatars/nicci.jpg",
