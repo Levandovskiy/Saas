@@ -27,6 +27,11 @@ const clients = [
     location: "San Francisco, CA",
     avatar: "/avatars/jones.jpg",
   },
+  {
+    name: "Jones Dermot",
+    location: "San Francisco, CA",
+    avatar: "/avatars/jones.jpg",
+  },
   { name: "Jane Doe", location: "New York, NY", avatar: "/avatars/jane.jpg" },
 ];
 
