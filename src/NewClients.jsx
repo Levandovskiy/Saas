@@ -7,11 +7,7 @@ const clients = [
     location: "Chicago, IL",
     avatar: "/avatars/nicci.jpg",
   },
-  {
-    name: "Nicci Troiani",
-    location: "Chicago, IL",
-    avatar: "/avatars/nicci.jpg",
-  },
+
   {
     name: "Nicci Troiani",
     location: "Chicago, IL",
@@ -22,21 +18,13 @@ const clients = [
     location: "New York, NY",
     avatar: "/avatars/george.jpg",
   },
-  {
-    name: "George Fields",
-    location: "New York, NY",
-    avatar: "/avatars/george.jpg",
-  },
+
   {
     name: "Jones Dermot",
     location: "San Francisco, CA",
     avatar: "/avatars/jones.jpg",
   },
-  {
-    name: "Jones Dermot",
-    location: "San Francisco, CA",
-    avatar: "/avatars/jones.jpg",
-  },
+
   { name: "Jane Doe", location: "New York, NY", avatar: "/avatars/jane.jpg" },
 ];
 
